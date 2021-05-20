@@ -1,0 +1,25 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Variables
+	* Strings
+	* Funciones (argumentos, `return`)
+	* Declaraciones `if`
+	* Valores booleanos (`true`, `false`)
+
+
+	variables: las variables son elementos que se usan para almacenar y darle valor a algo, para despues poder usarlo mientras escribimos el codigo. 
+
+	strings: las strings son un tipo de variable, especificamente para darle el valor de texto a algo 
+
+	funciones: las funciones son objetos dentro de un lenguaje de programacion que se usan para hacer muchas cosas, es una parte importante de un lenguaje de programacion. A cada funcion podemos asignarle argumentos, es una forma de usar variables dentro de una funcion. 
+	Dentro de las funciones tenemos una declaracion llamada "return" que vamos a usar para pedirle a la funcion que nos devuelva algo. 
+	Por ejemplo, si queremos que una funcion nos devuelva una multiplicacion podemos utilizar return, para que la funcion nos de el resultado. Seria algo asi: 
+    
+    function multiplicacion (A, B) {
+    Return (A * B)
+    }
+
+    De esta manera le pedimos que nos devuelva el resultado de la multiplicacion de los numeros que remplacemos por A y B. 
+
+    Valores Booleanos: los booleanos son datos que solamente pueden tener 2 valores, en este caso pueden ser True o False. 
+    
